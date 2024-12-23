@@ -1,6 +1,6 @@
 # Accounting for Time Series Errors in Partially Linear Model With Single- or Multiple-Runs
 
-============== README Description for MATLAB Codes =============================
+============== README Description for MATLAB Code =============================
 
 This README describes the procedure for producing the numerical results presented in the paper:
 
