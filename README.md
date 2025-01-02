@@ -1,4 +1,4 @@
-# Accounting for Time Series Errors in Partially Linear Model With Single- or Multiple-Runs
+# Accounting for time series errors in partially linear model with single- or multiple-runs
 
 ============== README Description for MATLAB Code =============================
 
